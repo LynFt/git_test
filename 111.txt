@@ -1,0 +1,23 @@
+
+{
+	enterprise_info:{
+					enterprise_id:""
+					enterprise_name:""
+					enterprise_number:""
+					},
+	
+	station_info:{
+					station_name: ""
+					logo:""
+					}
+	
+	file_info:{
+				file_limit:""
+				upload_type:""
+				}
+	save_info:{
+				save_setting:""
+				}
+}
+
+return JsonResponse(data) 		返回前端
