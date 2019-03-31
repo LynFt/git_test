@@ -1,5 +1,5 @@
 jsp
-tomcat
+smallcat
 spring-boot
-mvc模式
+mtv模式
 mysql
