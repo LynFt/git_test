@@ -10,14 +10,7 @@
 					updateupdateupdate: ""
 					logo:""
 					}
-	
-	file_info:{
-				updateupdateupdate:""
-				upload_type:""
-				}
-	save_info:{
-				updateupdateupdate:""
-				}
+
 }
 
 
