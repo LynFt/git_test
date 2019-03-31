@@ -20,4 +20,4 @@
 				}
 }
 
-return JsonResponse(data) 		返回前端
+
