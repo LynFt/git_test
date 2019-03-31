@@ -1,22 +1,22 @@
 
 {
 	enterprise_info:{
-					enterprise_id:""
+					updateupdateupdate:""
 					enterprise_name:""
 					enterprise_number:""
 					},
 	
 	station_info:{
-					station_name: ""
+					updateupdateupdate: ""
 					logo:""
 					}
 	
 	file_info:{
-				file_limit:""
+				updateupdateupdate:""
 				upload_type:""
 				}
 	save_info:{
-				save_setting:""
+				updateupdateupdate:""
 				}
 }
 
