@@ -7,7 +7,7 @@
 					},
 	
 	station_info:{
-					updateupdateupdate: ""
+					cpcpcpcpcpcpcpc: ""
 					logo:""
 					}
 
