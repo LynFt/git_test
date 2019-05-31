@@ -1,0 +1,9 @@
+Django==1.11.10
+django-redis==4.10.0
+PyMySQL==0.9.3
+pytz==2018.9
+redis==3.2.1
+PyYAML==5.1
+ua-parser==0.8.0
+user-agents==1.1.0
+xpinyin==0.5.6

@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+/venv
+/__pycache__
+.*
+dbutils.py
+settings.py
+/log
+/.idea
